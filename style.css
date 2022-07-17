@@ -1,0 +1,38 @@
+body
+{
+    background-position: center;
+    background-size:cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid whitesmoke;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: #353535;
+    color: whitesmoke;
+    position: fixed;
+}
+
+#canvas{
+    width: 706px;
+    height: 606px;
+    border: #353535 solid 3px;
+}
